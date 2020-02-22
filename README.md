@@ -7,7 +7,9 @@ Google account : 邮箱
 - username : blocktalkluo@gmail.com
 - password : Locky,111
 
-知乎 : 646-283-1713
+知乎 : 手机登录
+- 手机： +1646-283-1713
+- password: Cap9013@   
 
 抖音 : 
 - username : +1 6462842927
