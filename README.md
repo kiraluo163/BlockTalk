@@ -4,8 +4,8 @@ blocktalk website : www.block-talk.org
 - password : Cap9013@
 
 Google account : 邮箱
--username : blocktalkluo@gmail.com
--password : Locky,111
+- username : blocktalkluo@gmail.com
+- password : Locky,111
 
 知乎 : 646-283-1713
 
